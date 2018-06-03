@@ -145,10 +145,19 @@
 
 body{
     background-color: rgb(180, 176, 176)
-
-
-
-
-
-
 }
+
+
+
+
+ul {
+    text-align: center;
+    font-size: 18px;
+    /* Give an element a solid border. */
+    border-style: solid;
+    /* Render the border 5 pixels thick. */
+    border-width: 2px;
+    /* Include bullets in the content flow. */
+    /* More info here: http://www.w3schools.com/cssref/pr_list-style-position.asp */
+    list-style-position: inside;
+  }
