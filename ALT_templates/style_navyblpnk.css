@@ -6,7 +6,7 @@
     background-position: 0% 25%;
     background-size: cover;
     background-repeat: no-repeat;
-    color: rgb(55, 0, 255);
+    color: rgb(170, 35, 223);
     text-shadow: rgb(0, 0, 0) 0.3em 0.3em 0.3em;
  }
 
@@ -17,11 +17,11 @@
 /* Here's the style for our buttons */
 
 #button1  {
-                    background: #4134fa;background-image: -webkit-linear-gradient(top, #4134fa, #fa6bcf);
-                     background-image: -moz-linear-gradient(top, #4134fa, #fa6bcf);
-                     background-image: -ms-linear-gradient(top, #4134fa, #fa6bcf);
-                     background-image: -o-linear-gradient(top, #4134fa, #fa6bcf);
-                     background-image: linear-gradient(to bottom, #4134fa, #fa6bcf);-webkit-border-radius: 28;
+                    background: #140c7e;background-image: -webkit-linear-gradient(top, #140c7e, #d491c0);
+                     background-image: -moz-linear-gradient(top, #140c7e, #d491c0);
+                     background-image: -ms-linear-gradient(top, #140c7e, #d491c0);
+                     background-image: -o-linear-gradient(top, #140c7e, #d491c0);
+                     background-image: linear-gradient(to bottom, #140c7e, #d491c0);-webkit-border-radius: 28;
                      -moz-border-radius: 28;
                      border-radius: 16px;
                     text-shadow: 3px 2px 1px #818181;
@@ -38,11 +38,11 @@
 }
 
 #button2  {
-    background: #4134fa;background-image: -webkit-linear-gradient(top, #4134fa, #c4c6c7);
-                     background-image: -moz-linear-gradient(top, #4134fa, #c4c6c7);
-                     background-image: -ms-linear-gradient(top, #4134fa, #c4c6c7);
-                     background-image: -o-linear-gradient(top, #4134fa, #c4c6c7);
-                     background-image: linear-gradient(to bottom, #4134fa, #c4c6c7);-webkit-border-radius: 28;
+    background: #140c7e;background-image: -webkit-linear-gradient(top, #140c7e, #d491c0);
+                     background-image: -moz-linear-gradient(top, #140c7e, #d491c0);
+                     background-image: -ms-linear-gradient(top, #140c7e, #d491c0);
+                     background-image: -o-linear-gradient(top, #140c7e, #d491c0);
+                     background-image: linear-gradient(to bottom, #140c7e, #d491c0);-webkit-border-radius: 28;
                      -moz-border-radius: 28;
                      border-radius: 16px;
                     text-shadow: 3px 2px 1px #818181;
@@ -55,15 +55,16 @@
                      font-size: 16px;
                      padding: 11px;
                      width: 100px;
+                     
      
 }
 
 #button3  {
-    background: #4134fa;background-image: -webkit-linear-gradient(top, #4134fa, #c4c6c7);
-                     background-image: -moz-linear-gradient(top, #4134fa, #c4c6c7);
-                     background-image: -ms-linear-gradient(top, #4134fa, #c4c6c7);
-                     background-image: -o-linear-gradient(top, #4134fa, #c4c6c7);
-                     background-image: linear-gradient(to bottom, #4134fa, #c4c6c7);-webkit-border-radius: 28;
+    background: #140c7e;background-image: -webkit-linear-gradient(top, #140c7e, #d491c0);
+                     background-image: -moz-linear-gradient(top, #140c7e, #d491c0);
+                     background-image: -ms-linear-gradient(top, #140c7e, #d491c0);
+                     background-image: -o-linear-gradient(top, #140c7e, #d491c0);
+                     background-image: linear-gradient(to bottom, #140c7e, #d491c0);-webkit-border-radius: 28;
                      -moz-border-radius: 28;
                      border-radius: 16px;
                     text-shadow: 3px 2px 1px #818181;
@@ -76,15 +77,16 @@
                      font-size: 16px;
                      padding: 11px;
                      width: 100px;
+                     
      
 }
 
 #button4  {
-    background: #4134fa;background-image: -webkit-linear-gradient(top, #4134fa, #c4c6c7);
-                     background-image: -moz-linear-gradient(top, #4134fa, #c4c6c7);
-                     background-image: -ms-linear-gradient(top, #4134fa, #c4c6c7);
-                     background-image: -o-linear-gradient(top, #4134fa, #c4c6c7);
-                     background-image: linear-gradient(to bottom, #4134fa, #c4c6c7);-webkit-border-radius: 28;
+    background: #140c7e;background-image: -webkit-linear-gradient(top, #140c7e, #d491c0);
+                     background-image: -moz-linear-gradient(top, #140c7e, #d491c0);
+                     background-image: -ms-linear-gradient(top, #140c7e, #d491c0);
+                     background-image: -o-linear-gradient(top, #140c7e, #d491c0);
+                     background-image: linear-gradient(to bottom, #140c7e, #d491c0);-webkit-border-radius: 28;
                      -moz-border-radius: 28;
                      border-radius: 16px;
                     text-shadow: 3px 2px 1px #818181;
@@ -97,15 +99,16 @@
                      font-size: 16px;
                      padding: 11px;
                      width: 100px;
+                     
      
 }
 
 #button5  {
-    background: #4134fa;background-image: -webkit-linear-gradient(top, #4134fa, #c4c6c7);
-                     background-image: -moz-linear-gradient(top, #4134fa, #c4c6c7);
-                     background-image: -ms-linear-gradient(top, #4134fa, #c4c6c7);
-                     background-image: -o-linear-gradient(top, #4134fa, #c4c6c7);
-                     background-image: linear-gradient(to bottom, #4134fa, #c4c6c7);-webkit-border-radius: 28;
+    background: #140c7e;background-image: -webkit-linear-gradient(top, #140c7e, #d491c0);
+                     background-image: -moz-linear-gradient(top, #140c7e, #d491c0);
+                     background-image: -ms-linear-gradient(top, #140c7e, #d491c0);
+                     background-image: -o-linear-gradient(top, #140c7e, #d491c0);
+                     background-image: linear-gradient(to bottom, #140c7e, #d491c0);-webkit-border-radius: 28;
                      -moz-border-radius: 28;
                      border-radius: 16px;
                     text-shadow: 3px 2px 1px #818181;
@@ -118,15 +121,16 @@
                      font-size: 16px;
                      padding: 11px;
                      width: 100px;
+                     
      
 }
 
 #button6  {
-    background: #4134fa;background-image: -webkit-linear-gradient(top, #4134fa, #c4c6c7);
-                     background-image: -moz-linear-gradient(top, #4134fa, #c4c6c7);
-                     background-image: -ms-linear-gradient(top, #4134fa, #c4c6c7);
-                     background-image: -o-linear-gradient(top, #4134fa, #c4c6c7);
-                     background-image: linear-gradient(to bottom, #4134fa, #c4c6c7);-webkit-border-radius: 28;
+    background: #140c7e;background-image: -webkit-linear-gradient(top, #140c7e, #d491c0);
+                     background-image: -moz-linear-gradient(top, #140c7e, #d491c0);
+                     background-image: -ms-linear-gradient(top, #140c7e, #d491c0);
+                     background-image: -o-linear-gradient(top, #140c7e, #d491c0);
+                     background-image: linear-gradient(to bottom, #140c7e, #d491c0);-webkit-border-radius: 28;
                      -moz-border-radius: 28;
                      border-radius: 16px;
                     text-shadow: 3px 2px 1px #818181;
@@ -139,12 +143,13 @@
                      font-size: 16px;
                      padding: 11px;
                      width: 100px;
+                     
      
 }
 
 
 body{
-    background-color: rgb(180, 166, 88)
+    background-color: rgb(143, 141, 148)
 }
 
 
