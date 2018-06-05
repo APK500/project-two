@@ -1,13 +1,16 @@
 /* Here's our Jumbotron style */
 
 .jumbotron {
-    margin-bottom: 0px;
+    
+    margin-bottom: 10px;
+    font-family: Georgia, "Times New Roman", Times, serif;
     background-image: url(Indiana-University-Bloomington.jpg);
     background-position: 0% 25%;
     background-size: cover;
     background-repeat: no-repeat;
     color: rgb(14, 13, 13);
     text-shadow: rgb(255, 255, 255) 0.3em 0.3em 0.3em;
+    
  }
 
 
@@ -164,4 +167,11 @@ ul {
     /* Include bullets in the content flow. */
     /* More info here: http://www.w3schools.com/cssref/pr_list-style-position.asp */
     list-style-position: inside;
+    
+        border-top-style: dotted;
+        border-right-style: dotted;
+        border-bottom-style: dotted;
+        border-left-style: dotted;
+    
+    
   }
