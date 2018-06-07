@@ -43,6 +43,11 @@
                      padding: 11px;
                      width: 100px;
                      
+}button1
+
+#myDiv {
+    -webkit-transform: rotateX(150deg); /* Safari */
+    transform: rotateX(150deg);
 }
 
 #button2  {
@@ -155,9 +160,12 @@
      
 }
 
-
+img {
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
 body{
-    background-color: rgb(143, 141, 148)
+    background:linear-gradient(white,rgb(168, 158, 158))
 }
 
 
