@@ -52,8 +52,8 @@
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <script src="{{ url_for('static', filename='js/app.js') }}"></script>
 
-	<script type="text/javascript" src="{{ url_for('static', filename='js/jquery.fullPage.js') }}"></script>
-	<script type="text/javascript" src="{{ url_for('static', filename='js/examples.js') }}"></script>
+	<script type="text/javascript" src="static/js/jquery.fullPage.js"></script>
+	<script type="text/javascript" src="static/js/examples.js"></script>
 	<script type="text/javascript">
 		$(document).ready(function() {
 			$('#fullpage').fullpage({
@@ -149,7 +149,7 @@
 </div>
 
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-<script src="static/js/app.js"></script>
+<script src="{{ url_for('static', filename='js/app.js') }}"></script>
 
 </body>
 </html>
