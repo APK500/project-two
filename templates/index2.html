@@ -10,9 +10,8 @@
 	<meta name="Resource-type" content="Document" />
 
 
-	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/jquery.fullPage.css') }}"/>
-	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/examples.css') }}"/>
-
+	<link rel="stylesheet" href="../static/css/examples.css"/>
+	<link rel="stylesheet" href="../static/css/jquery.fullPage.css"/>
 
 	<style>
 		/* Sections
@@ -150,7 +149,9 @@
 </div>
 
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-<script src="{{ url_for('static', filename='js/app.js') }}"></script>
-
+<!-- <script src="{{ url_for('static', filename='js/app.js') }}"></script> -->
+<script src="static/js/app.js"></script>
+<script src="static/js/examples.js"></script>
+<script src="static/js/jquery.fullPage.js"></script>
 </body>
 </html>
